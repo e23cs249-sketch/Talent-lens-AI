@@ -7,6 +7,7 @@ TalentLens AI is a hybrid AI-powered candidate ranking system that combines rule
 **Submission includes:**
 - **GitHub Repository**: Complete working code, frontend, and backend
 - **Approach PDF**: [APPROACH.pdf](APPROACH.pdf) — detailed explanation of the ranking algorithm and methodology
+ - **Approach PDF**: [APPROACH.pdf](ai-candidate-ranker/Frontend/src/APPROACH.pdf) — detailed explanation of the ranking algorithm and methodology
 - **Ranked Output**: `output/submission.csv` — top 100 ranked candidates
 
 ---
